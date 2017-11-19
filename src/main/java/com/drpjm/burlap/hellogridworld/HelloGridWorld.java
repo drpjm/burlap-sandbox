@@ -1,4 +1,4 @@
-package com.drpjm.burlap;
+package com.drpjm.burlap.hellogridworld;
 
 import burlap.domain.singleagent.gridworld.*;
 import burlap.domain.singleagent.gridworld.state.*;

@@ -1,4 +1,4 @@
-package com.drpjm.burlap;
+package com.drpjm.burlap.hellogridworld;
 
 import burlap.behavior.singleagent.auxiliary.performance.LearningAlgorithmExperimenter;
 import burlap.behavior.singleagent.auxiliary.performance.PerformanceMetric;
